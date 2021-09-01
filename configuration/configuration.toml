@@ -1,0 +1,10 @@
+[server]
+port = ":8080"
+
+[logging]
+severity = "debug"
+
+[database]
+user = "test_user"
+password = "test_pwd"
+dbName = "test_db"
